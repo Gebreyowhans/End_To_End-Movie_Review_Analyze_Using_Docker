@@ -1,4 +1,11 @@
 .venv
 .ipynb_checkpoints
 *.pyc
-src/.ipynb_checkpoints/
+**src/.ipynb_checkpoints/
+**/CheXpert/dataframes
+**/Movie_Review_Analyzer/data/test_set_1.csv
+**/Movie_Review_Analyzer/data/test_set_1_answers.csv
+**/Movie_Review_Analyzer/data/test_set_2.csv
+**/Movie_Review_Analyzer/data/test_set_2_answers.csv
+**/Movie_Review_Analyzer/model/logistic_model.pkl
+**/Movie_Review_Analyzer/model/tfidf_vectorizer.pkl
